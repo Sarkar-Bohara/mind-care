@@ -1,0 +1,12 @@
+Sample Resource Content
+======================
+
+This is a sample downloadable resource file.
+It demonstrates how the download functionality works.
+
+Content:
+- This file was created to test the download feature
+- It shows how uploaded files are served to users
+- The download API properly handles file serving
+
+MindCare Hub - Mental Health Resources
