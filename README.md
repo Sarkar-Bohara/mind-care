@@ -35,7 +35,7 @@ A comprehensive mental health platform built with Next.js, TypeScript, and Postg
 
 3. **Setup environment variables**
    ```bash
-   cp .env.local.example .env.local
+   cp .env.local.production .env.local
    # Edit .env.local with your database credentials
    ```
 
